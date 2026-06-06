@@ -27,7 +27,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "8": {
     "bet_id": "8",
@@ -57,7 +58,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "19": {
     "bet_id": "19",
@@ -94,7 +96,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "17": {
     "bet_id": "17",
@@ -117,7 +120,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2": {
     "bet_id": "2",
@@ -140,7 +144,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "15": {
     "bet_id": "15",
@@ -163,7 +168,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "62": {
     "bet_id": "62",
@@ -186,7 +192,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "850": {
     "bet_id": "850",
@@ -209,7 +216,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "101": {
     "bet_id": "101",
@@ -232,7 +240,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2766": {
     "bet_id": "2766",
@@ -262,7 +271,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "119": {
     "bet_id": "119",
@@ -278,7 +288,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "123": {
     "bet_id": "123",
@@ -301,7 +312,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "912": {
     "bet_id": "912",
@@ -324,7 +336,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2891": {
     "bet_id": "2891",
@@ -347,7 +360,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "11358": {
     "bet_id": "11358",
@@ -363,7 +377,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "3425": {
     "bet_id": "3425",
@@ -379,7 +394,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "11353": {
     "bet_id": "11353",
@@ -395,7 +411,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "11351": {
     "bet_id": "11351",
@@ -411,7 +428,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "136": {
     "bet_id": "136",
@@ -427,7 +445,8 @@
         "is_need_format": true,
         "is_range_format": true
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "109": {
     "bet_id": "109",
@@ -450,7 +469,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "182": {
     "bet_id": "182",
@@ -473,7 +493,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "14": {
     "bet_id": "14",
@@ -496,7 +517,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2663": {
     "bet_id": "2663",
@@ -533,7 +555,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2665": {
     "bet_id": "2665",
@@ -570,7 +593,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "32": {
     "bet_id": "32",
@@ -593,7 +617,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "43": {
     "bet_id": "43",
@@ -616,7 +641,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "44": {
     "bet_id": "44",
@@ -639,7 +665,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "9939": {
     "bet_id": "9939",
@@ -690,7 +717,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "96": {
     "bet_id": "96",
@@ -713,7 +741,8 @@
         "is_need_format": true,
         "is_range_format": true
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "751": {
     "bet_id": "751",
@@ -736,7 +765,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "755": {
     "bet_id": "755",
@@ -759,7 +789,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "9124": {
     "bet_id": "9124",
@@ -782,7 +813,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "9123": {
     "bet_id": "9123",
@@ -805,7 +837,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "11212": {
     "bet_id": "11212",
@@ -856,7 +889,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "20": {
     "bet_id": "20",
@@ -879,7 +913,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "12": {
     "bet_id": "12",
@@ -902,7 +937,8 @@
         "is_need_format": true,
         "is_range_format": true
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "11": {
     "bet_id": "11",
@@ -974,7 +1010,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "1156": {
     "bet_id": "1156",
@@ -990,7 +1027,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "1158": {
     "bet_id": "1158",
@@ -1006,7 +1044,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2418": {
     "bet_id": "2418",
@@ -1029,7 +1068,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2444": {
     "bet_id": "2444",
@@ -1066,7 +1106,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "87": {
     "bet_id": "87",
@@ -1096,7 +1137,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "88": {
     "bet_id": "88",
@@ -1126,7 +1168,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "89": {
     "bet_id": "89",
@@ -1156,7 +1199,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "91": {
     "bet_id": "91",
@@ -1179,7 +1223,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "92": {
     "bet_id": "92",
@@ -1202,7 +1247,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "154": {
     "bet_id": "154",
@@ -1225,7 +1271,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "27": {
     "bet_id": "27",
@@ -1255,7 +1302,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "49": {
     "bet_id": "49",
@@ -1278,7 +1326,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "303": {
     "bet_id": "303",
@@ -1308,7 +1357,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "305": {
     "bet_id": "305",
@@ -1338,7 +1388,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2668": {
     "bet_id": "2668",
@@ -1361,7 +1412,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "10106": {
     "bet_id": "10106",
@@ -1398,7 +1450,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "9429": {
     "bet_id": "9429",
@@ -1435,7 +1488,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2989": {
     "bet_id": "2989",
@@ -1472,7 +1526,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2987": {
     "bet_id": "2987",
@@ -1509,7 +1564,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "117": {
     "bet_id": "117",
@@ -1525,7 +1581,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "118": {
     "bet_id": "118",
@@ -1541,7 +1598,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2462": {
     "bet_id": "2462",
@@ -1557,7 +1615,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2464": {
     "bet_id": "2464",
@@ -1573,7 +1632,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2732": {
     "bet_id": "2732",
@@ -1589,7 +1649,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "3201": {
     "bet_id": "3201",
@@ -1605,7 +1666,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "6887": {
     "bet_id": "6887",
@@ -1621,7 +1683,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "10069": {
     "bet_id": "10069",
@@ -1637,7 +1700,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "22": {
     "bet_id": "22",
@@ -1660,7 +1724,8 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2947": {
     "bet_id": "2947",
@@ -1676,7 +1741,8 @@
         "is_need_format": true,
         "is_range_format": true
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "2949": {
     "bet_id": "2949",
@@ -1692,7 +1758,8 @@
         "is_need_format": true,
         "is_range_format": true
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "8203": {
     "bet_id": "8203",
@@ -1715,7 +1782,8 @@
         "is_need_format": false,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   },
   "9403": {
     "bet_id": "9403",
@@ -1752,6 +1820,7 @@
         "is_need_format": true,
         "is_range_format": false
       }
-    }
+    },
+    "invalid_market_id": []
   }
 }
