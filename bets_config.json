@@ -696,7 +696,7 @@
     "bet_id": "96",
     "bet_name_es": "Gol que se anotará hasta (Minuto)",
     "bet_name_en": "Goal to scored until (Minute)",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "812": {
@@ -862,7 +862,7 @@
     "bet_id": "20",
     "bet_name_es": "Siguiente Gol",
     "bet_name_en": "Next Gol",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "388": {
@@ -885,7 +885,7 @@
     "bet_id": "12",
     "bet_name_es": "Intervalo de Gol",
     "bet_name_en": "Range to Score",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "2951": {
@@ -1208,7 +1208,7 @@
     "bet_id": "154",
     "bet_name_es": "Equipo que anotará el ultimo gol",
     "bet_name_en": "Team to score last gol",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "475": {
@@ -1284,7 +1284,7 @@
     "bet_id": "303",
     "bet_name_es": "Resultado en el minuto",
     "bet_name_en": "Result in minute",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "1189": {
@@ -1314,7 +1314,7 @@
     "bet_id": "305",
     "bet_name_es": "Doble Oportunidad en el minuto",
     "bet_name_en": "Double Chance in minute",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "1192": {
@@ -1643,7 +1643,7 @@
     "bet_id": "22",
     "bet_name_es": "Victoria en el juego",
     "bet_name_en": "Victory in game",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "50": {
@@ -1666,7 +1666,7 @@
     "bet_id": "2947",
     "bet_name_es": "Marcador después de 4 juegos",
     "bet_name_en": "Score after 4 games",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "3935": {
@@ -1682,7 +1682,7 @@
     "bet_id": "2949",
     "bet_name_es": "Marcador después de 6 juegos",
     "bet_name_en": "Score after 6 games",
-    "is_chrono_bet": false,
+    "is_chrono_bet": true,
     "is_player_bet": false,
     "sub_bet": {
       "3936": {
