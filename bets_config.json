@@ -1,0 +1,1757 @@
+{
+  "1": {
+    "bet_id": "1",
+    "bet_name_es": "1X2",
+    "bet_name_en": "1X2",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "1": {
+        "sub_bet_id": "1",
+        "name_sub_bet_es": "G1",
+        "name_sub_bet_en": "W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "2": {
+        "sub_bet_id": "2",
+        "name_sub_bet_es": "X",
+        "name_sub_bet_en": "X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "3": {
+        "sub_bet_id": "3",
+        "name_sub_bet_es": "G2",
+        "name_sub_bet_en": "W2",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "8": {
+    "bet_id": "8",
+    "bet_name_es": "Doble Oportunidad",
+    "bet_name_en": "Double Chance",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "4": {
+        "sub_bet_id": "4",
+        "name_sub_bet_es": "1X",
+        "name_sub_bet_en": "1X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "5": {
+        "sub_bet_id": "5",
+        "name_sub_bet_es": "12",
+        "name_sub_bet_en": "12",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "6": {
+        "sub_bet_id": "6",
+        "name_sub_bet_es": "2x",
+        "name_sub_bet_en": "2X",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "19": {
+    "bet_id": "19",
+    "bet_name_es": "Ambos Equipos Marcan",
+    "bet_name_en": "Both Teams To Score",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "180": {
+        "sub_bet_id": "180",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "181": {
+        "sub_bet_id": "181",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "11273": {
+        "sub_bet_id": "11273",
+        "name_sub_bet_es": "%(P)s Goles - Si",
+        "name_sub_bet_en": "%(P)s Goals - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "11274": {
+        "sub_bet_id": "11274",
+        "name_sub_bet_es": "%(P)s Goles - No",
+        "name_sub_bet_en": "%(P)s Goals - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "17": {
+    "bet_id": "17",
+    "bet_name_es": "Total",
+    "bet_name_en": "Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "9": {
+        "sub_bet_id": "9",
+        "name_sub_bet_es": "Alta (%(P)s)",
+        "name_sub_bet_en": "Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10": {
+        "sub_bet_id": "10",
+        "name_sub_bet_es": "Baja (%(P)s)",
+        "name_sub_bet_en": "Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2": {
+    "bet_id": "2",
+    "bet_name_es": "Handicap",
+    "bet_name_en": "Handicap",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "7": {
+        "sub_bet_id": "7",
+        "name_sub_bet_es": "1 (%(P)s)",
+        "name_sub_bet_en": "1 (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "8": {
+        "sub_bet_id": "8",
+        "name_sub_bet_es": "2 (%(P)s)",
+        "name_sub_bet_en": "2 (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "15": {
+    "bet_id": "15",
+    "bet_name_es": "Total 1",
+    "bet_name_en": "Total 1",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "11": {
+        "sub_bet_id": "11",
+        "name_sub_bet_es": "Alta (%(P)s)",
+        "name_sub_bet_en": "Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "12": {
+        "sub_bet_id": "12",
+        "name_sub_bet_es": "Baja (%(P)s)",
+        "name_sub_bet_en": "Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "62": {
+    "bet_id": "62",
+    "bet_name_es": "Total 2",
+    "bet_name_en": "Total 2",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "13": {
+        "sub_bet_id": "13",
+        "name_sub_bet_es": "Alta (%(P)s)",
+        "name_sub_bet_en": "Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "14": {
+        "sub_bet_id": "14",
+        "name_sub_bet_es": "Baja (%(P)s)",
+        "name_sub_bet_en": "Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "850": {
+    "bet_id": "850",
+    "bet_name_es": "Total Del Jugador",
+    "bet_name_en": "Player Total",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "1807": {
+        "sub_bet_id": "1807",
+        "name_sub_bet_es": "%(PLN)s Alta(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Over(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1806": {
+        "sub_bet_id": "1806",
+        "name_sub_bet_es": "%(PLN)s Baja (%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "101": {
+    "bet_id": "101",
+    "bet_name_es": "Equipo Ganador",
+    "bet_name_en": "Team Wins",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "401": {
+        "sub_bet_id": "401",
+        "name_sub_bet_es": "G1",
+        "name_sub_bet_en": "W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "402": {
+        "sub_bet_id": "402",
+        "name_sub_bet_es": "G2",
+        "name_sub_bet_en": "W2",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "2766": {
+    "bet_id": "2766",
+    "bet_name_es": "1X2 Tiempo Reglamentario",
+    "bet_name_en": "1X2 Regular Time",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3653": {
+        "sub_bet_id": "3653",
+        "name_sub_bet_es": "G1",
+        "name_sub_bet_en": "W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "3654": {
+        "sub_bet_id": "3654",
+        "name_sub_bet_es": "X",
+        "name_sub_bet_en": "X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "3655": {
+        "sub_bet_id": "3655",
+        "name_sub_bet_es": "G2",
+        "name_sub_bet_en": "W2",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "119": {
+    "bet_id": "119",
+    "bet_name_es": "Marcará gol en cualquier momento",
+    "bet_name_en": "He will score a goal at any time",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "5869": {
+        "sub_bet_id": "5869",
+        "name_sub_bet_es": "%(PLN)s Si",
+        "name_sub_bet_en": "%(PLN)s Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "123": {
+    "bet_id": "123",
+    "bet_name_es": "Quién ganará?",
+    "bet_name_en": "Who win?",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "835": {
+        "sub_bet_id": "835",
+        "name_sub_bet_es": "%(PLN)s Si",
+        "name_sub_bet_en": "%(PLN)s Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "836": {
+        "sub_bet_id": "836",
+        "name_sub_bet_es": "%(PLN)s No",
+        "name_sub_bet_en": "%(PLN)s No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "912": {
+    "bet_id": "912",
+    "bet_name_es": "Total",
+    "bet_name_en": "Total",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "1880": {
+        "sub_bet_id": "1880",
+        "name_sub_bet_es": "%(PLN)s Alta(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Over(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1881": {
+        "sub_bet_id": "1881",
+        "name_sub_bet_es": "%(PLN)s Baja(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Under(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2891": {
+    "bet_id": "2891",
+    "bet_name_es": "Pitcher Total Strikeouts",
+    "bet_name_en": "Pitcher Total Strikeouts",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "3868": {
+        "sub_bet_id": "3868",
+        "name_sub_bet_es": "%(PLN)s Alta(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Over(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3869": {
+        "sub_bet_id": "3869",
+        "name_sub_bet_es": "%(PLN)s Baja (%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "11358": {
+    "bet_id": "11358",
+    "bet_name_es": "Pitcher Total Strikeouts",
+    "bet_name_en": "Pitcher Total Strikeouts",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "16132": {
+        "sub_bet_id": "16132",
+        "name_sub_bet_es": "%(PLN)s (%(P)s) o más",
+        "name_sub_bet_en": "%(PLN)s (%(P)s) or more",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "3425": {
+    "bet_id": "3425",
+    "bet_name_es": "Jugador que anotará homerun",
+    "bet_name_en": "Player will score a homerun",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "4743": {
+        "sub_bet_id": "4743",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "11353": {
+    "bet_id": "11353",
+    "bet_name_es": "Bateador Total de Homerun",
+    "bet_name_en": "Batter Total Homerun",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "16127": {
+        "sub_bet_id": "16127",
+        "name_sub_bet_es": "%(PLN)s (%(P)s) o más",
+        "name_sub_bet_en": "%(PLN)s (%(P)s) or more",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "11351": {
+    "bet_id": "11351",
+    "bet_name_es": "Bateador Total de Hits",
+    "bet_name_en": "Batter Total Hits",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "16125": {
+        "sub_bet_id": "16125",
+        "name_sub_bet_es": "%(PLN)s (%(P)s) o más",
+        "name_sub_bet_en": "%(PLN)s (%(P)s) or more",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "136": {
+    "bet_id": "136",
+    "bet_name_es": "Marcador Correcto",
+    "bet_name_en": "Correct Score",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "731": {
+        "sub_bet_id": "731",
+        "name_sub_bet_es": "%(P)s",
+        "name_sub_bet_en": "%(P)s",
+        "is_need_format": true,
+        "is_range_format": true
+      }
+    }
+  },
+  "109": {
+    "bet_id": "109",
+    "bet_name_es": "Handicap de Sets",
+    "bet_name_en": "Sets Handicap",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "732": {
+        "sub_bet_id": "732",
+        "name_sub_bet_es": "1 (%(P)s)",
+        "name_sub_bet_en": "1 (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "733": {
+        "sub_bet_id": "733",
+        "name_sub_bet_es": "2 (%(P)s)",
+        "name_sub_bet_en": "2 (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "182": {
+    "bet_id": "182",
+    "bet_name_es": "Total de Sets",
+    "bet_name_en": "Total Sets",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "971": {
+        "sub_bet_id": "971",
+        "name_sub_bet_es": "Alta (%(P)s)",
+        "name_sub_bet_en": "Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "972": {
+        "sub_bet_id": "972",
+        "name_sub_bet_es": "Baja (%(P)s)",
+        "name_sub_bet_en": "Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "14": {
+    "bet_id": "14",
+    "bet_name_es": "Total Par",
+    "bet_name_en": "Total Even",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "182": {
+        "sub_bet_id": "182",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "183": {
+        "sub_bet_id": "183",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "2663": {
+    "bet_id": "2663",
+    "bet_name_es": "1, Resultado + Total",
+    "bet_name_en": "1, Result + Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "196": {
+        "sub_bet_id": "196",
+        "name_sub_bet_es": "G1 y Baja (%(P)s)",
+        "name_sub_bet_en": "W1 and Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "197": {
+        "sub_bet_id": "197",
+        "name_sub_bet_es": "G1 y Alta (%(P)s)",
+        "name_sub_bet_en": "W1 and Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "198": {
+        "sub_bet_id": "198",
+        "name_sub_bet_es": "1X y Baja (%(P)s)",
+        "name_sub_bet_en": "1X and Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "199": {
+        "sub_bet_id": "199",
+        "name_sub_bet_es": "1X y Alta (%(P)s)",
+        "name_sub_bet_en": "1X and Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2665": {
+    "bet_id": "2665",
+    "bet_name_es": "2, Resultado + Total",
+    "bet_name_en": "2, Result + Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "191": {
+        "sub_bet_id": "191",
+        "name_sub_bet_es": "G2 y Baja (%(P)s)",
+        "name_sub_bet_en": "W2 and Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "192": {
+        "sub_bet_id": "192",
+        "name_sub_bet_es": "G2 y Alta (%(P)s)",
+        "name_sub_bet_en": "W2 and Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "193": {
+        "sub_bet_id": "193",
+        "name_sub_bet_es": "X2 y Baja (%(P)s)",
+        "name_sub_bet_en": "X2 and Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "194": {
+        "sub_bet_id": "194",
+        "name_sub_bet_es": "X2 y Alta (%(P)s)",
+        "name_sub_bet_en": "X2 and Over (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "32": {
+    "bet_id": "32",
+    "bet_name_es": "Gol en Ambas Mitades",
+    "bet_name_en": "Score in Both Halfves",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "478": {
+        "sub_bet_id": "478",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "479": {
+        "sub_bet_id": "479",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "43": {
+    "bet_id": "43",
+    "bet_name_es": "Equipo 1 ganará al menos una mitad",
+    "bet_name_en": "Team 1 to win at least one half",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "504": {
+        "sub_bet_id": "504",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "505": {
+        "sub_bet_id": "505",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "44": {
+    "bet_id": "44",
+    "bet_name_es": "Equipo 2 ganará al menos una mitad",
+    "bet_name_en": "Team 2 to win at least one half",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "506": {
+        "sub_bet_id": "506",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "507": {
+        "sub_bet_id": "507",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "9939": {
+    "bet_id": "9939",
+    "bet_name_es": "Total Exacto",
+    "bet_name_en": "Total Exact",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "4548": {
+        "sub_bet_id": "4548",
+        "name_sub_bet_es": "%(P)s - Si",
+        "name_sub_bet_en": "%(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "4549": {
+        "sub_bet_id": "4549",
+        "name_sub_bet_es": "%(P)s - No",
+        "name_sub_bet_en": "%(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "4550": {
+        "sub_bet_id": "4550",
+        "name_sub_bet_es": "%(P)s - Si",
+        "name_sub_bet_en": "%(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": true
+      },
+      "4551": {
+        "sub_bet_id": "4551",
+        "name_sub_bet_es": "%(P)s - No",
+        "name_sub_bet_en": "%(P)s - No",
+        "is_need_format": true,
+        "is_range_format": true
+      },
+      "4552": {
+        "sub_bet_id": "4552",
+        "name_sub_bet_es": "%(P)s o más - Si",
+        "name_sub_bet_en": "%(P)s or more - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "4553": {
+        "sub_bet_id": "4553",
+        "name_sub_bet_es": "%(P)s o más - No",
+        "name_sub_bet_en": "%(P)s or more - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "96": {
+    "bet_id": "96",
+    "bet_name_es": "Gol que se anotará hasta (Minuto)",
+    "bet_name_en": "Goal to scored until (Minute)",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "812": {
+        "sub_bet_id": "812",
+        "name_sub_bet_es": "Gol %(P)s - Si",
+        "name_sub_bet_en": "Goal %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": true
+      },
+      "813": {
+        "sub_bet_id": "813",
+        "name_sub_bet_es": "Gol %(P)s - No",
+        "name_sub_bet_en": "Goal %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": true
+      }
+    }
+  },
+  "751": {
+    "bet_id": "751",
+    "bet_name_es": "Total de Asistencias",
+    "bet_name_en": "Assist Total",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "1491": {
+        "sub_bet_id": "1491",
+        "name_sub_bet_es": "%(PLN)s Alta(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Over(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1492": {
+        "sub_bet_id": "1492",
+        "name_sub_bet_es": "%(PLN)s Baja (%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "755": {
+    "bet_id": "755",
+    "bet_name_es": "Total de Triples",
+    "bet_name_en": "Triple Total",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "1495": {
+        "sub_bet_id": "1495",
+        "name_sub_bet_es": "%(PLN)s Alta(%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Over(%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1496": {
+        "sub_bet_id": "1496",
+        "name_sub_bet_es": "%(PLN)s Baja (%(P)s)",
+        "name_sub_bet_en": "%(PLN)s Under (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "9124": {
+    "bet_id": "9124",
+    "bet_name_es": "Registrará un triple-doble",
+    "bet_name_en": "He will record a triple-double",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "9298": {
+        "sub_bet_id": "9298",
+        "name_sub_bet_es": "%(PLN)s - Sí",
+        "name_sub_bet_en": "%(PLN)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "9299": {
+        "sub_bet_id": "9299",
+        "name_sub_bet_es": "%(PLN)s - No",
+        "name_sub_bet_en": "%(PLN)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "9123": {
+    "bet_id": "9123",
+    "bet_name_es": "Registrará un doble-doble",
+    "bet_name_en": "He will record a double-double",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "9296": {
+        "sub_bet_id": "9296",
+        "name_sub_bet_es": "%(PLN)s - Sí",
+        "name_sub_bet_en": "%(PLN)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "9297": {
+        "sub_bet_id": "9297",
+        "name_sub_bet_es": "%(PLN)s - No",
+        "name_sub_bet_en": "%(PLN)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "11212": {
+    "bet_id": "11212",
+    "bet_name_es": "1X2 + Ambos Equipos Marcan",
+    "bet_name_en": "1X2 + Both Team to Score",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "15770": {
+        "sub_bet_id": "15770",
+        "name_sub_bet_es": "G1 + Sí",
+        "name_sub_bet_en": "W1 + Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "15773": {
+        "sub_bet_id": "15773",
+        "name_sub_bet_es": "G1 + No",
+        "name_sub_bet_en": "W1 + No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "15772": {
+        "sub_bet_id": "15772",
+        "name_sub_bet_es": "X + Sí",
+        "name_sub_bet_en": "X + Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "15775": {
+        "sub_bet_id": "15775",
+        "name_sub_bet_es": "X + No",
+        "name_sub_bet_en": "X + No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "15771": {
+        "sub_bet_id": "15771",
+        "name_sub_bet_es": "G2 + Sí",
+        "name_sub_bet_en": "W2 + Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "15774": {
+        "sub_bet_id": "15774",
+        "name_sub_bet_es": "G2 + No",
+        "name_sub_bet_en": "W2 + No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "20": {
+    "bet_id": "20",
+    "bet_name_es": "Siguiente Gol",
+    "bet_name_en": "Next Gol",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "388": {
+        "sub_bet_id": "388",
+        "name_sub_bet_es": "Equipo 1 anota %(P)s Gol",
+        "name_sub_bet_en": "Team 1 score %(P)s Gol",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "389": {
+        "sub_bet_id": "389",
+        "name_sub_bet_es": "Equipo 2 anota %(P)s Gol",
+        "name_sub_bet_en": "Team 2 score %(P)s Gol",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "12": {
+    "bet_id": "12",
+    "bet_name_es": "Intervalo de Gol",
+    "bet_name_en": "Range to Score",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "2951": {
+        "sub_bet_id": "2951",
+        "name_sub_bet_es": "Equipo 1:  %(P)s",
+        "name_sub_bet_en": "Team 1: %(P)s",
+        "is_need_format": true,
+        "is_range_format": true
+      },
+      "2952": {
+        "sub_bet_id": "2952",
+        "name_sub_bet_es": "Equipo 2: %(P)s",
+        "name_sub_bet_en": "Team 2: %(P)s",
+        "is_need_format": true,
+        "is_range_format": true
+      }
+    }
+  },
+  "11": {
+    "bet_id": "11",
+    "bet_name_es": "Resultado Descanso/Final",
+    "bet_name_en": "Result Half/Final",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "15": {
+        "sub_bet_id": "15",
+        "name_sub_bet_es": "G1/G1",
+        "name_sub_bet_en": "W1/W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "16": {
+        "sub_bet_id": "16",
+        "name_sub_bet_es": "G1/X",
+        "name_sub_bet_en": "W1/X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "17": {
+        "sub_bet_id": "17",
+        "name_sub_bet_es": "G1/G2",
+        "name_sub_bet_en": "W1/W2",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "18": {
+        "sub_bet_id": "18",
+        "name_sub_bet_es": "X/G1",
+        "name_sub_bet_en": "X/W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "19": {
+        "sub_bet_id": "19",
+        "name_sub_bet_es": "X/X",
+        "name_sub_bet_en": "X/X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "20": {
+        "sub_bet_id": "20",
+        "name_sub_bet_es": "X/G2",
+        "name_sub_bet_en": "X/W2",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "21": {
+        "sub_bet_id": "21",
+        "name_sub_bet_es": "G2/G1",
+        "name_sub_bet_en": "W2/W1",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "22": {
+        "sub_bet_id": "22",
+        "name_sub_bet_es": "G2/X",
+        "name_sub_bet_en": "W2/X",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "23": {
+        "sub_bet_id": "23",
+        "name_sub_bet_es": "G2/G2",
+        "name_sub_bet_en": "W2/W2",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "1156": {
+    "bet_id": "1156",
+    "bet_name_es": "Jugador anotará 2 Goles",
+    "bet_name_en": "Player to score two goals",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "855": {
+        "sub_bet_id": "855",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "1158": {
+    "bet_id": "1158",
+    "bet_name_es": "Jugador anotará un hat-trick",
+    "bet_name_en": "Player to score a hat-trick",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "856": {
+        "sub_bet_id": "856",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2418": {
+    "bet_id": "2418",
+    "bet_name_es": "Dejará portería en 0",
+    "bet_name_en": "Goal at 0",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "2803": {
+        "sub_bet_id": "2803",
+        "name_sub_bet_es": "Equipo 1",
+        "name_sub_bet_en": "Team One",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "2804": {
+        "sub_bet_id": "2804",
+        "name_sub_bet_es": "Equipo 2",
+        "name_sub_bet_en": "Team Two",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "2444": {
+    "bet_id": "2444",
+    "bet_name_es": "Total + Ambos Equipos Marcan",
+    "bet_name_en": "Total + Both Team to Score",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3523": {
+        "sub_bet_id": "3523",
+        "name_sub_bet_es": "Alta (%(P)s) y AA - Sí",
+        "name_sub_bet_en": "Over (%(P)s) and BS - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3524": {
+        "sub_bet_id": "3524",
+        "name_sub_bet_es": "Alta (%(P)s) y AA - No",
+        "name_sub_bet_en": "Over (%(P)s) and BS - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3525": {
+        "sub_bet_id": "3525",
+        "name_sub_bet_es": "Baja (%(P)s) y AA - Si",
+        "name_sub_bet_en": "Under (%(P)s) and BS - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3526": {
+        "sub_bet_id": "3526",
+        "name_sub_bet_es": "Baja (%(P)s) y AA - No",
+        "name_sub_bet_en": "Under (%(P)s) and BS - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "87": {
+    "bet_id": "87",
+    "bet_name_es": "Total 3 Opciones",
+    "bet_name_en": "Total 3 Way",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "739": {
+        "sub_bet_id": "739",
+        "name_sub_bet_es": "Más de (%(P)s)",
+        "name_sub_bet_en": "More of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "741": {
+        "sub_bet_id": "741",
+        "name_sub_bet_es": "Exacto (%(P)s)",
+        "name_sub_bet_en": "Exact (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "743": {
+        "sub_bet_id": "743",
+        "name_sub_bet_es": "Menos de (%(P)s)",
+        "name_sub_bet_en": "Under of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "88": {
+    "bet_id": "88",
+    "bet_name_es": "Total individual 1 - 3 Opciones",
+    "bet_name_en": "Individual total 1 -3 Way",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "749": {
+        "sub_bet_id": "749",
+        "name_sub_bet_es": "Más de (%(P)s)",
+        "name_sub_bet_en": "More of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "751": {
+        "sub_bet_id": "751",
+        "name_sub_bet_es": "Exacto (%(P)s)",
+        "name_sub_bet_en": "Exact (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "753": {
+        "sub_bet_id": "753",
+        "name_sub_bet_es": "Menos de (%(P)s)",
+        "name_sub_bet_en": "Under of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "89": {
+    "bet_id": "89",
+    "bet_name_es": "Total individual 2 - 3 Opciones",
+    "bet_name_en": "Individual total 2 -3 Way",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "763": {
+        "sub_bet_id": "763",
+        "name_sub_bet_es": "Más de (%(P)s)",
+        "name_sub_bet_en": "More of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "764": {
+        "sub_bet_id": "764",
+        "name_sub_bet_es": "Exacto (%(P)s)",
+        "name_sub_bet_en": "Exact (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "765": {
+        "sub_bet_id": "765",
+        "name_sub_bet_es": "Menos de (%(P)s)",
+        "name_sub_bet_en": "Under of (%(P)s)",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "91": {
+    "bet_id": "91",
+    "bet_name_es": "Total individual 1 - Par",
+    "bet_name_en": "Individual total 1 - Even",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "755": {
+        "sub_bet_id": "755",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "757": {
+        "sub_bet_id": "757",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "92": {
+    "bet_id": "92",
+    "bet_name_es": "Total individual 2 - Par",
+    "bet_name_en": "Individual total 2 - Even",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "766": {
+        "sub_bet_id": "766",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "767": {
+        "sub_bet_id": "767",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "154": {
+    "bet_id": "154",
+    "bet_name_es": "Equipo que anotará el ultimo gol",
+    "bet_name_en": "Team to score last gol",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "475": {
+        "sub_bet_id": "475",
+        "name_sub_bet_es": "Equipo 1",
+        "name_sub_bet_en": "Team one",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "477": {
+        "sub_bet_id": "477",
+        "name_sub_bet_es": "Equipo 2",
+        "name_sub_bet_en": "Team 2",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "27": {
+    "bet_id": "27",
+    "bet_name_es": "Handicap Europeo",
+    "bet_name_en": "European Handicap",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "424": {
+        "sub_bet_id": "424",
+        "name_sub_bet_es": "%(P)s G1",
+        "name_sub_bet_en": "%(P)s W1",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "425": {
+        "sub_bet_id": "425",
+        "name_sub_bet_es": "%(P)s X",
+        "name_sub_bet_en": "%(P)s X",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "426": {
+        "sub_bet_id": "426",
+        "name_sub_bet_es": "%(P)s G2",
+        "name_sub_bet_en": "%(P)s W2",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "49": {
+    "bet_id": "49",
+    "bet_name_es": "Empate en al menos una mitad",
+    "bet_name_en": "Draw in at least one half",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "516": {
+        "sub_bet_id": "516",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "517": {
+        "sub_bet_id": "517",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "303": {
+    "bet_id": "303",
+    "bet_name_es": "Resultado en el minuto",
+    "bet_name_en": "Result in minute",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "1189": {
+        "sub_bet_id": "1189",
+        "name_sub_bet_es": "G1 en el minuto %(P)s",
+        "name_sub_bet_en": "W1 in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1190": {
+        "sub_bet_id": "1190",
+        "name_sub_bet_es": "X en el minuto %(P)s",
+        "name_sub_bet_en": "X in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1191": {
+        "sub_bet_id": "1191",
+        "name_sub_bet_es": "G2 en el minuto %(P)s",
+        "name_sub_bet_en": "W2 in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "305": {
+    "bet_id": "305",
+    "bet_name_es": "Doble Oportunidad en el minuto",
+    "bet_name_en": "Double Chance in minute",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "1192": {
+        "sub_bet_id": "1192",
+        "name_sub_bet_es": "1X en el minuto %(P)s",
+        "name_sub_bet_en": "1X in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1193": {
+        "sub_bet_id": "1193",
+        "name_sub_bet_es": "12 en el minuto %(P)s",
+        "name_sub_bet_en": "12 in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1194": {
+        "sub_bet_id": "1194",
+        "name_sub_bet_es": "X2 en el minuto %(P)s",
+        "name_sub_bet_en": "X2 in minute %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2668": {
+    "bet_id": "2668",
+    "bet_name_es": "Doble Oportunidad + Total",
+    "bet_name_en": "Double Chance + Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "1558": {
+        "sub_bet_id": "1558",
+        "name_sub_bet_es": "12 + Baja %(P)s",
+        "name_sub_bet_en": "12 + Under %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "1559": {
+        "sub_bet_id": "1559",
+        "name_sub_bet_es": "12 + Alta %(P)s",
+        "name_sub_bet_en": "12 + Over %(P)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "10106": {
+    "bet_id": "10106",
+    "bet_name_es": "1X + Total Equipo 1",
+    "bet_name_en": "1X + Team 1 Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "10338": {
+        "sub_bet_id": "10338",
+        "name_sub_bet_es": "1X + Alta %(P)s - Si",
+        "name_sub_bet_en": "1X + Over %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10340": {
+        "sub_bet_id": "10340",
+        "name_sub_bet_es": "1X + Baja %(P)s - Si",
+        "name_sub_bet_en": "1X + Under %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10339": {
+        "sub_bet_id": "10339",
+        "name_sub_bet_es": "1X + Alta %(P)s - No",
+        "name_sub_bet_en": "1X + Over %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10341": {
+        "sub_bet_id": "10341",
+        "name_sub_bet_es": "1X + Baja %(P)s - No",
+        "name_sub_bet_en": "1X + Under %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "9429": {
+    "bet_id": "9429",
+    "bet_name_es": "X2 + Total Equipo 2",
+    "bet_name_en": "X2 + Team 2 Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "10342": {
+        "sub_bet_id": "10342",
+        "name_sub_bet_es": "X2 + Alta %(P)s - Si",
+        "name_sub_bet_en": "X2 + Over %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10344": {
+        "sub_bet_id": "10344",
+        "name_sub_bet_es": "X2 + Baja %(P)s - Si",
+        "name_sub_bet_en": "X2 + Under %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10343": {
+        "sub_bet_id": "10343",
+        "name_sub_bet_es": "X2 + Alta %(P)s - No",
+        "name_sub_bet_en": "X2 + Over %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10345": {
+        "sub_bet_id": "10345",
+        "name_sub_bet_es": "X2 + Baja %(P)s - No",
+        "name_sub_bet_en": "X2 + Under %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2989": {
+    "bet_id": "2989",
+    "bet_name_es": "G2 + Total Equipo 2",
+    "bet_name_en": "W2 + Team 2 Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3975": {
+        "sub_bet_id": "3975",
+        "name_sub_bet_es": "G2 + Alta %(P)s - Si",
+        "name_sub_bet_en": "W2 + Over %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10336": {
+        "sub_bet_id": "10336",
+        "name_sub_bet_es": "G2 + Baja %(P)s - Si",
+        "name_sub_bet_en": "W2 + Under %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3976": {
+        "sub_bet_id": "3976",
+        "name_sub_bet_es": "G2 + Alta %(P)s - No",
+        "name_sub_bet_en": "W2 + Over %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10337": {
+        "sub_bet_id": "10337",
+        "name_sub_bet_es": "G2 + Baja %(P)s - No",
+        "name_sub_bet_en": "W2 + Under %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2987": {
+    "bet_id": "2987",
+    "bet_name_es": "G1 + Total Equipo 1",
+    "bet_name_en": "W1 + Team 1 Total",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3973": {
+        "sub_bet_id": "3973",
+        "name_sub_bet_es": "G1 + Alta %(P)s - Si",
+        "name_sub_bet_en": "W1 + Over %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10334": {
+        "sub_bet_id": "10334",
+        "name_sub_bet_es": "G1 + Baja %(P)s - Si",
+        "name_sub_bet_en": "W1 + Under %(P)s - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "3974": {
+        "sub_bet_id": "3974",
+        "name_sub_bet_es": "G1 + Alta %(P)s - No",
+        "name_sub_bet_en": "W1 + Over %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "10335": {
+        "sub_bet_id": "10335",
+        "name_sub_bet_es": "G1 + Baja %(P)s - No",
+        "name_sub_bet_en": "W1 + Under %(P)s - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "117": {
+    "bet_id": "117",
+    "bet_name_es": "Jugador que anotará el primer gol",
+    "bet_name_en": "Player to scored first goal",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "833": {
+        "sub_bet_id": "833",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "118": {
+    "bet_id": "118",
+    "bet_name_es": "Jugador que anotará el último gol",
+    "bet_name_en": "Player to scored last goal",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "834": {
+        "sub_bet_id": "834",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2462": {
+    "bet_id": "2462",
+    "bet_name_es": "Jugador que anotará el primer gol y último gol",
+    "bet_name_en": "Player to scored first and last goal",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "8774": {
+        "sub_bet_id": "8774",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2464": {
+    "bet_id": "2464",
+    "bet_name_es": "Jugador que anotará el primer gol o último gol",
+    "bet_name_en": "Player to scored first or last goal",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "8776": {
+        "sub_bet_id": "8776",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2732": {
+    "bet_id": "2732",
+    "bet_name_es": "Jugador que realizará una asistencia",
+    "bet_name_en": "Player to make assist",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "3545": {
+        "sub_bet_id": "3545",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "3201": {
+    "bet_id": "3201",
+    "bet_name_es": "Recibirá tarjeta amarilla",
+    "bet_name_en": "Will receive yellow card",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "4365": {
+        "sub_bet_id": "4365",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "6887": {
+    "bet_id": "6887",
+    "bet_name_es": "Recibirá tarjeta roja",
+    "bet_name_en": "Will receive red card",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "5457": {
+        "sub_bet_id": "5457",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "10069": {
+    "bet_id": "10069",
+    "bet_name_es": "Jugador que anotará gol o hará una asistencia",
+    "bet_name_en": "Player will to score a goal or make a assists",
+    "is_chrono_bet": false,
+    "is_player_bet": true,
+    "sub_bet": {
+      "12792": {
+        "sub_bet_id": "12792",
+        "name_sub_bet_es": "%(PLN)s",
+        "name_sub_bet_en": "%(PLN)s",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "22": {
+    "bet_id": "22",
+    "bet_name_es": "Victoria en el juego",
+    "bet_name_en": "Victory in game",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "50": {
+        "sub_bet_id": "50",
+        "name_sub_bet_es": "Juego %(P)s - G1",
+        "name_sub_bet_en": "Game %(P)s - W1",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "51": {
+        "sub_bet_id": "51",
+        "name_sub_bet_es": "Juego %(P)s - G2",
+        "name_sub_bet_en": "Game %(P)s - W2",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  },
+  "2947": {
+    "bet_id": "2947",
+    "bet_name_es": "Marcador después de 4 juegos",
+    "bet_name_en": "Score after 4 games",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3935": {
+        "sub_bet_id": "3935",
+        "name_sub_bet_es": "%(P)s",
+        "name_sub_bet_en": "%(P)s",
+        "is_need_format": true,
+        "is_range_format": true
+      }
+    }
+  },
+  "2949": {
+    "bet_id": "2949",
+    "bet_name_es": "Marcador después de 6 juegos",
+    "bet_name_en": "Score after 6 games",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "3936": {
+        "sub_bet_id": "3936",
+        "name_sub_bet_es": "%(P)s",
+        "name_sub_bet_en": "%(P)s",
+        "is_need_format": true,
+        "is_range_format": true
+      }
+    }
+  },
+  "8203": {
+    "bet_id": "8203",
+    "bet_name_es": "Se usará el VAR",
+    "bet_name_en": "will be used VAR",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "7416": {
+        "sub_bet_id": "7416",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "7417": {
+        "sub_bet_id": "7417",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      }
+    }
+  },
+  "9403": {
+    "bet_id": "9403",
+    "bet_name_es": "Entrará el equipo médico al campo",
+    "bet_name_en": "Will enter the team medic to the field",
+    "is_chrono_bet": false,
+    "is_player_bet": false,
+    "sub_bet": {
+      "7422": {
+        "sub_bet_id": "7422",
+        "name_sub_bet_es": "Si",
+        "name_sub_bet_en": "Yes",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "7423": {
+        "sub_bet_id": "7423",
+        "name_sub_bet_es": "No",
+        "name_sub_bet_en": "No",
+        "is_need_format": false,
+        "is_range_format": false
+      },
+      "8218": {
+        "sub_bet_id": "8218",
+        "name_sub_bet_es": "%(P)s o más veces - Si",
+        "name_sub_bet_en": "%(P)s or more times - Yes",
+        "is_need_format": true,
+        "is_range_format": false
+      },
+      "8219": {
+        "sub_bet_id": "8219",
+        "name_sub_bet_es": "%(P)s o más veces - No",
+        "name_sub_bet_en": "%(P)s or more times - No",
+        "is_need_format": true,
+        "is_range_format": false
+      }
+    }
+  }
+}
